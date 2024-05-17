@@ -7,5 +7,5 @@
 <br>
 
 <img src="./src/assets/tela-1.png"/>
-<br>
+<br> <br>
 <img src="./src/assets/tela-2.png"/>
